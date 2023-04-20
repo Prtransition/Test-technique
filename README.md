@@ -45,5 +45,5 @@ Voilà quelques pistes pour vous aider :
 Je veux ajouter une fonctionnalité : récupérer des pokémons selon leur type.
 
 Il nous faudra donc : 
-- Une page qui liste les types de la base (types.png) quand on clique sur l'un on arrive sur la page suivante
-- Une page qui liste les pokémons filtrés par le type cliqué sur la page précédente (electrik.png)
+- Une page qui liste les types de la base (types.png) 
+- Une page qui liste les pokémons filtrés par le type (electrik.png)
