@@ -5,7 +5,8 @@ Vous serez évlué sur les critères suivants :
 - La compréhension des concepts de base en développement web
 - La capacité à résoudre des problèmes et **à trouver des solutions créatives**
 
-Vous pusherez votre code sur votre propre répo Github et vous fournirez un fichier `.sql` de votre base de données
+Vous pusherez votre code sur votre propre répo Github et vous fournirez un fichier `.sql` de votre base de données.
+Vous pouvez egalement heberger votre projet si vous le souhaitez.
 
 # Pokédex
 
@@ -13,7 +14,7 @@ Un pokédex est une sorte de dictionnaire de tous les pokémons. Ces derniers pe
 
 Vous aurez besoin pour cette mission des outils suivants : 
 - HTML / CSS
-- Wordpress
+- Wordpress (facultatif)
 - PHP
 - MySQL
 
